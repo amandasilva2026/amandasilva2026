@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🧿💍​
 
-<!--
-**amandasilva2026/amandasilva2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é amanda alves
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou me desenvolvendo na linguagem programação
+-  utiliso essa espaço pra minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+
+
+## VOCÊ PODE ENTRAR EM CONTATO COMIGO 💬
+
+- AMANDA.SILVA.SANTOS28@ESCOLA.PR.GOV.BR
+  
+@ AMANDA_ALVES_KOCHURUBA
+
+![](
+![](
